@@ -1,4 +1,4 @@
-# 😂 Meme Generator (JavaScript)
+# Meme Generator (JavaScript)
 
 Hey! 👋 This is a fun **Meme Generator** I built using **JavaScript**. The idea is simple: you type your own text, the app grabs a random meme image, and you end up with a custom meme you can screenshot and share.
 
